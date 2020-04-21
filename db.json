@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "blah"
+    },
+    {
+      "text": "hello"
+    },
+    {
+      "text": "trung"
+    },
+    {
+      "text": "thien"
+    },
+    {
+      "text": "hieu"
+    }
+  ]
+}
